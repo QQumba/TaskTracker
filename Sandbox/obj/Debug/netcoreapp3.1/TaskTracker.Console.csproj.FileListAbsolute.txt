@@ -1,0 +1,4 @@
+C:\projects\TaskTracker\TaskTracker.Console\obj\Debug\netcoreapp3.1\TaskTracker.Console.csprojAssemblyReference.cache
+C:\projects\TaskTracker\TaskTracker.Console\obj\Debug\netcoreapp3.1\TaskTracker.Console.AssemblyInfoInputs.cache
+C:\projects\TaskTracker\TaskTracker.Console\obj\Debug\netcoreapp3.1\TaskTracker.Console.AssemblyInfo.cs
+C:\projects\TaskTracker\TaskTracker.Console\obj\Debug\netcoreapp3.1\TaskTracker.Console.csproj.CoreCompileInputs.cache

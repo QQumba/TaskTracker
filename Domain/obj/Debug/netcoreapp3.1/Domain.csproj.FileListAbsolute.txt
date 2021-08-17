@@ -1,0 +1,9 @@
+C:\projects\TaskTracker\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\projects\TaskTracker\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\projects\TaskTracker\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\projects\TaskTracker\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\projects\TaskTracker\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\projects\TaskTracker\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\projects\TaskTracker\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\projects\TaskTracker\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\projects\TaskTracker\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

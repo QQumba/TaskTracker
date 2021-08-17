@@ -1,0 +1,9 @@
+C:\projects\TaskTracker\Contract\bin\Debug\netcoreapp3.1\Contract.deps.json
+C:\projects\TaskTracker\Contract\bin\Debug\netcoreapp3.1\Contract.dll
+C:\projects\TaskTracker\Contract\bin\Debug\netcoreapp3.1\Contract.pdb
+C:\projects\TaskTracker\Contract\obj\Debug\netcoreapp3.1\Contract.csprojAssemblyReference.cache
+C:\projects\TaskTracker\Contract\obj\Debug\netcoreapp3.1\Contract.AssemblyInfoInputs.cache
+C:\projects\TaskTracker\Contract\obj\Debug\netcoreapp3.1\Contract.AssemblyInfo.cs
+C:\projects\TaskTracker\Contract\obj\Debug\netcoreapp3.1\Contract.csproj.CoreCompileInputs.cache
+C:\projects\TaskTracker\Contract\obj\Debug\netcoreapp3.1\Contract.dll
+C:\projects\TaskTracker\Contract\obj\Debug\netcoreapp3.1\Contract.pdb

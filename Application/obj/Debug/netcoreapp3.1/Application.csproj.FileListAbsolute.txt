@@ -1,0 +1,16 @@
+C:\projects\TaskTracker\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\projects\TaskTracker\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\projects\TaskTracker\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\projects\TaskTracker\Application\bin\Debug\netcoreapp3.1\Contract.dll
+C:\projects\TaskTracker\Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\projects\TaskTracker\Application\bin\Debug\netcoreapp3.1\Contract.pdb
+C:\projects\TaskTracker\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\projects\TaskTracker\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\projects\TaskTracker\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\projects\TaskTracker\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\projects\TaskTracker\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\projects\TaskTracker\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\projects\TaskTracker\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\projects\TaskTracker\Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\projects\TaskTracker\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\projects\TaskTracker\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.xml
